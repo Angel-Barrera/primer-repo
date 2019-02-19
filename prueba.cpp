@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(){
+int main(){
 	printf("Hola comunidad de GitHub\n\n");
 	system("pause");
 	system("cls");
-	printf("Hasta la próxima amigos\n\n");
+	printf("Hasta la prÃ³xima amigos\n\n");
 	system("pause");
+	return(0);
 }
